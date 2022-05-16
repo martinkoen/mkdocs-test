@@ -1,0 +1,5 @@
+site_name: Read The Docs
+theme:
+  name: material
+  custom_dir: 'material'
+  logo: 'assets/images/logo.png'
