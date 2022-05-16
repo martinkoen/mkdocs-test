@@ -4,7 +4,7 @@
 
 ## End-User Guide
 
-![netTerrain 9.1](./assets/images/img13.jpg)
+<!-- ![netTerrain 9.1](./assets/images/img13.jpg) -->
 
 
 In the extremely unlikely event that you don’t find this manual mind-blowingly fun to read, some

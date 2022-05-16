@@ -3,5 +3,16 @@ theme:
   name: material
   custom_dir: 'material'
   logo: 'assets/images/logo.png'
+  font:
+    text: Roboto
 plugins:
-    - with-pdf
+    - with-pdf:
+        #cover_subtitle: netTerrain 9.1
+        cover_logo: material/assets/images/netTerrain_User_Guide_9.jpg
+        output_path: pdf/netterrain_9.1.pdf
+        # author: Graphical Networks
+        # copyright: netTerrain
+        custom_template_path: custom_pdf
+        
+
+      
