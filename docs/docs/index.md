@@ -61,7 +61,7 @@ End users in netTerrain are typically associated with the following roles:
 - Editors: network administrators, IT documentation personnel or any other individual
     tasked with entering and editing data in netTerrain.
 
-### 1.2 ASSUMPTIONS.............................................................................
+### 1.2 ASSUMPTIONS
 
 This guide assumes that users have basic knowledge of browser navigation and general
 computer and networking knowledge. Let’s just say that if we are talking about mouse-clicks
