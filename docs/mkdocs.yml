@@ -1,4 +1,4 @@
-site_name: Read The Docs
+site_name: Documentation
 theme:
   name: material
   custom_dir: 'material'
