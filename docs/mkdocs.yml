@@ -6,6 +6,7 @@ theme:
   font:
     text: Roboto
 plugins:
+    - search
     - with-pdf:
         #cover_subtitle: netTerrain 9.1
         cover_logo: material/assets/images/netTerrain_User_Guide_9.jpg
