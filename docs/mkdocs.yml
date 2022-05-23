@@ -5,6 +5,7 @@ theme:
   logo: 'assets/images/logo.png'
   font:
     text: Roboto
+    code: Roboto Mono
 plugins:
     - search
     - with-pdf:
@@ -14,6 +15,9 @@ plugins:
         # author: Graphical Networks
         # copyright: netTerrain
         custom_template_path: custom_pdf
-        
+        toc_level: 3
+        # two_columns_level: 2
+        debug_html: true
+        #show_anchors: true
 
       
