@@ -149,8 +149,8 @@ can:
 - Using the Integration Toolkit users can discover the network using SNMP and other
     protocols or from third-party systems and view real-time alarms on netTerrain diagrams
 
+![netTerrain 9.1](./assets/images/image005.jpg)
 
-![netTerrain 9.1](./assets/images/img1009.jpg)
 _Layer 3 network view example_
 
 
@@ -160,6 +160,8 @@ _Layer 3 network view example_
 With netTerrain users can create a myriad of diagram types that represent different aspects of
 the organization. Thanks to a fully flexible catalog of nodes and links, users can create topology,
 system and application views displaying a variety of IT and non-IT objects.
+
+![](./assets/images/image006.jpg)
 
 _Application View example_
 
@@ -172,6 +174,7 @@ power and weight tracking, slot availability, port connectivity, DCIM reporting 
 netTerrain DCIM includes a sophisticated network, infrastructure and environmental monitoring
 module that is outside the scope of this guide.
 
+![](./assets/images/image007.jpg)
 
 _Floor plan view example_
 
@@ -185,6 +188,7 @@ types, if a cable needs to have matching port connectors and much more.
 netTerrain also has the ability create Circuit Layout Records (CLRs) to see end-to-end
 connectivity as well as multiple tools to create multi-connections at once.
 
+![](./assets/images/image008.png)
 
 _CLR view_
 
@@ -196,6 +200,7 @@ networks and GIS based outside plant views.
 You can use fully GIS-enabled maps, manage any type of outside plant element and combine
 them with inside plant cable and asset management.
 
+![](./assets/images/image009.png)
 
 _Outside plant dynamic map view_
 
@@ -208,6 +213,7 @@ dashboard tabs that can be discriminated based on default role access.
 netTerrain ships with a series of built-in reports such as dashboards for Data Center summary
 views, device aggregate reports, connectivity reports, admin reports and much more.
 
+![](./assets/images/image010.jpg)
 
 _Dashboard view_
 
@@ -216,6 +222,8 @@ _Dashboard view_
 netTerrain provides several bulk import methods, including Microsoft Excel, Visio and netViz
 import buttons as well the Integration Toolkit (ITK) to capture data from the network or other
 systems and other third-party or homegrown repositories.
+
+![](./assets/images/image011.png)
 
 _Integration Toolkit_
 
