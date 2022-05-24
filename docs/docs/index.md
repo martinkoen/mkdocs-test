@@ -1,13 +1,13 @@
  
 
-# netTerrain 9.5
+# netTerrain 9.1
 
 ## End-User Guide
 
 <!-- ![netTerrain 9.1](./assets/images/img13.jpg) -->
 
 
-Hello! In the extremely unlikely event that you don’t find this manual mind-blowingly fun to read, some
+In the extremely unlikely event that you don’t find this manual mind-blowingly fun to read, some
 sections provide quick video tutorials to help you ease your way into netTerrain. Look for the
 video icon and link next to it:
 
