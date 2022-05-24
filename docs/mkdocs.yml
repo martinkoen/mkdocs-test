@@ -1,5 +1,5 @@
 site_name: netTerrain 9.1
-
+site_url: http://martin.koen.gitlab.io/
 theme:
   name: material
   custom_dir: 'material'
