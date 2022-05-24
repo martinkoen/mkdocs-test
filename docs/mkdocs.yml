@@ -1,4 +1,5 @@
-site_name: Documentation
+site_name: netTerrain 9.1
+
 theme:
   name: material
   custom_dir: 'material'
@@ -6,6 +7,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  
 plugins:
     - search
     - with-pdf:
@@ -15,9 +17,11 @@ plugins:
         # author: Graphical Networks
         # copyright: netTerrain
         custom_template_path: custom_pdf
+        ordered_chapter_level: 0
         toc_level: 3
-        # two_columns_level: 2
+        # two_columns_level: 3
         debug_html: true
-        #show_anchors: true
+        show_anchors: true
+
 
       

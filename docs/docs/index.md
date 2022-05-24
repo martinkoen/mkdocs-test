@@ -1,8 +1,9 @@
- 
+---
+hide:
+    - navigation
+---
+# End-User Guide
 
-# netTerrain 9.1
-
-## End-User Guide
 
 <!-- ![netTerrain 9.1](./assets/images/img13.jpg) -->
 
@@ -537,7 +538,7 @@ When another user is on the same diagram, the indicator has a pink fill color, i
 on a different diagram the indicator is grey. You can access the diagrams that other users are
 currently navigating by simply clicking on the diagramId link.
 
-### 3.2.4 Structure of netTerrain URLs
+#### 3.2.4 Structure of netTerrain URLs
 
 netTerrain diagrams all use “deterministic URLs”, with a regular structure, or pattern:
 
@@ -561,7 +562,7 @@ Just like with any other web application, an incorrect URL will redirect you to 
 
 _Oh noes! A 404!!_
 
-## 3.3 GETTING STARTED WITH DIAGRAMS
+### 3.3 GETTING STARTED WITH DIAGRAMS
 
 Once logged into the system for the first time, users find themselves in the so called ‘project’
 side, where they can start navigating the different diagrams that comprise a netTerrain project.
@@ -589,7 +590,7 @@ Attention!
 The administrative console is the gateway for managing users, groups, global settings and audit
 trails. This can only be accessed by users with Admin role privileges.
 
-## 3.4 THE NETTERRAIN GUI
+### 3.4 THE NETTERRAIN GUI
 
 The netTerrain graphical user interface (GUI) is designed to simplify the process of managing
 your diagrams and information. In this section we simply walk you through these elements, and
@@ -617,7 +618,7 @@ L) Notifications, user and help menus
 _Basic netTerrain GUI components_
 
 
-### 3.4.1 Diagram
+#### 3.4.1 Diagram
 
 Diagrams in netTerrain are the main actors, and hard to miss: it’s where you place all your
 objects. There are tons of interesting things that you can do with diagrams, such as adding
@@ -627,7 +628,7 @@ clicking on it.
 
 _netTerrain diagram, right there in the thick of things!_
 
-#### 3.4.1.1 Help notifications
+##### 3.4.1.1 Help notifications
 
 As a new user to the system (and if the sys admin enabled them), netTerrain will provide some
 basic help notifications when you perform certain actions. For example, if you click on the zoom
