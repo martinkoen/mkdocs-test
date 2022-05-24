@@ -260,6 +260,7 @@ information repository.
 
 The following functional view shows the data flow in netTerrain:
 
+![](./assets/images/image012.jpg)
 
 _Functional view_
 
@@ -271,6 +272,7 @@ netTerrain Integration Toolkit and Collector.
 The diagram below shows the architecture of netTerrain, with each component and how it
 interacts with the system:
 
+![](./assets/images/image013.png)
 
 _netTerrain architecture diagram_
 
@@ -330,6 +332,7 @@ Our Environmental monitoring (EM) module saw a major facelift and major usabilit
 improvements. The color schema and panes now better match our core netTerrain design and
 the menu options have been simplified for easier navigation.
 
+![](./assets/images/image014.jpg)
 
 _New EM design_
 
