@@ -2,15 +2,9 @@
 hide:
     - navigation
 ---
+
 # End-User Guide
 
-
-<!-- ![netTerrain 9.1](./assets/images/img13.jpg) -->
-
-
-In the extremely unlikely event that you don’t find this manual mind-blowingly fun to read, some
-sections provide quick video tutorials to help you ease your way into netTerrain. Look for the
-video icon and link next to it:
 
 Powered by
 
@@ -44,6 +38,11 @@ This document is divided into the following mind-blowing chapters:
 - Chapter 9, “Dashboards”
 - Chapter 10, “Change management”
 
+In the extremely unlikely event that you don’t find this manual mind-blowingly fun to read, some
+sections provide quick video tutorials to help you ease your way into netTerrain. Look for the
+video icon and link next to it:
+
+[Video tutorials](http://video.graphicalnetworks.com/User_Manual_Videos/)
 
 ### 1.1 WHO SHOULD USE IT
 
@@ -150,7 +149,10 @@ can:
 - Using the Integration Toolkit users can discover the network using SNMP and other
     protocols or from third-party systems and view real-time alarms on netTerrain diagrams
 
+
+![netTerrain 9.1](./assets/images/img1009.jpg)
 _Layer 3 network view example_
+
 
 
 ##### 2.1.3.2 Application, system and miscellaneous views
