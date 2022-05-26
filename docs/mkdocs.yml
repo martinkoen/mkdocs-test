@@ -19,6 +19,7 @@ plugins:
         custom_template_path: custom_pdf
         ordered_chapter_level: 0
         toc_level: 3
+        toc_title: Contents
         # two_columns_level: 3
         debug_html: true
         show_anchors: true

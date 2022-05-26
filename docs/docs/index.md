@@ -3,25 +3,34 @@ hide:
     - navigation
 ---
 
-# End-User Guide
 
+
+
+
+# End-User Guide
 
 Powered by
 
+
 © 2021 Graphical Networks LLC. All rights reserved.
+
 
 Graphical Networks and netTerrain are registered trademarks of Graphical Networks LLC. Other
 product names mentioned in this manual may be trademarks or registered trademarks of their
-respective companies and are hereby acknowledged and stuff.
-This document was created with 100% recycled electrons.
+respective companies and are hereby acknowledged and stuff.<br>
+This document was created with 100% recycled electrons.<br>
 Before printing, please be mindful of that PC load letter and consider the environment when
 hitting the printer with a baseball bat.
 
+Image: Matterhorn, Switzerland.
 
-Graphical Networks LLC
-Telephone: + 1 - 240 - 912 - 6223
+Graphical Networks LLC<br>
+Telephone: + 1 - 240 - 912 - 6223<br>
 Fax: +1- 240 - 912 - 6339 (We still use these to accept your purchase orders)
 
+
+
+<div style="page-break-after: always;"></div>
 
 ## 1 ABOUT THIS GUIDE
 
@@ -1125,7 +1134,7 @@ the equivalent of pressing the top-Level link on the breadcrumbs.
 
 _Top level link_
 
-#### 3.4.4.2 netTerrain Reports and Dashboards........................................................................................................
+#### 3.4.4.2 netTerrain Reports and Dashboards
 
 The reports link takes you to another area in netTerrain displaying several dashboards and
 reports.
@@ -1214,7 +1223,7 @@ that you can find on the lower right corner of a diagram.
 
 _Zooming and panning toolset_
 
-#### 3.4.5.1 Zoom options..........................................................................................................................................
+#### 3.4.5.1 Zoom options
 
 To zoom, you can use the ‘+’ and ‘-‘ buttons, as well as the keyboard or the mouse-wheel. You
 can zoom into a specific percentage level by choosing one of the fixed options on the zoom
@@ -2076,7 +2085,7 @@ locked for that operation. Change the CanResize option as needed.
 
 _CanMove and CanRotate options_
 
-##### 4.1.4.1 Resizing objects in bulk........................................................................................................................
+##### 4.1.4.1 Resizing objects in bulk
 
 The resize options work on any type of object in netTerrain, including nodes, palette objects,
 images and free text. netTerrain provides a menu for the main bulk resizing operations, which
@@ -2149,7 +2158,7 @@ selecting the number of rows or columns for the object matrix.
 
 _Arranging a set of objects in tile_
 
-##### 4.1.5.3 Ellipse arranging...................................................................................................................................
+##### 4.1.5.3 Ellipse arranging
 
 Besides row, column and tile arrangements, netTerrain provides a convenient way to arrange
 objects in an ellipse, as shown in the diagram below.
@@ -2283,7 +2292,7 @@ shown below:
 
 _Changing the default page color of a diagram_
 
-##### 4.1.6.5 Defining a diagram grid........................................................................................................................
+##### 4.1.6.5 Defining a diagram grid
 
 For any node diagram (that is, a diagram that is not inside a rack, device or card) you can
 visualize a grid and define the grid spacing.
@@ -2356,7 +2365,7 @@ the bottom corners.
 
 _Floating catalog_
 
-##### 4.2.1.2 Catalog structure...................................................................................................................................
+##### 4.2.1.2 Catalog structure
 
 The catalog is divided into two main categories: nodes and links. The nodes catalog has, in turn,
 three tabs: one for all the nodes, another one for all the devices and a third one for racks. In total,
@@ -2481,7 +2490,7 @@ filled out for the old node type will be lost, since those properties don’t ap
 
 _Changing the type for a node_
 
-#### 4.2.2.2 Adding nodes by using the right-click diagram context menu..............................................................
+#### 4.2.2.2 Adding nodes by using the right-click diagram context menu
 
 As an alternative method for adding nodes you can do the following:
 
@@ -2510,7 +2519,7 @@ Once you find your object, just drag and drop it on the diagram. That’s it!
 
 _Dragging and dropping a router onto a diagram_
 
-#### 4.2.2.4 Adding nodes by dragging and dropping an image from a browser or folder.......................................
+#### 4.2.2.4 Adding nodes by dragging and dropping an image from a browser or folder
 
 There is a nice trick to add a node into the project quickly: by dragging and dropping an image
 from a folder or browser!
@@ -4996,7 +5005,7 @@ As opposed to aggregate functions for racks, these properties can be overridden 
 by instance basis. Also, users can create additional custom fields representing power readings,
 which can in turn be the result of a discovery or some other importing mechanism.
 
-##### 6.3.2.3 Mounting a device on a rack.................................................................................................................
+##### 6.3.2.3 Mounting a device on a rack
 
 
 To mount a device on a rack, drag it to the rack mountable area. You will notice that netTerrain
@@ -5148,7 +5157,7 @@ The image below shows a port with overrides based on a field called ifOperStatus
 _Port overrides based on operational status_
 
 
-## 7 BULK IMPORTS AND EXPORTS.......................................................................................................
+## 7 BULK IMPORTS AND EXPORTS
 
 As mentioned earlier in the guide when reviewing the menus, netTerrain includes a number of
 bulk import and export features, including:
@@ -6508,7 +6517,7 @@ or conduits as nodes. These are the objects that will be laid out on a map. Exam
 _Remote area coverage with typical GPON node types_
 
 
-##### 8.5.4.2 GPON Device and link types................................................................................................................
+##### 8.5.4.2 GPON Device and link types
 
 In GPON deployments we will typically find:
 
@@ -7228,7 +7237,7 @@ _Adding an inside connection_
 
 Main paths and excluded links are selected in a similar fashion as with inter-building hops.
 
-##### 8.8.3.3 Step 2: Selecting the end devices..........................................................................................................
+##### 8.8.3.3 Step 2: Selecting the end devices
 
 Since circuit paths utilize strands and patches (more on that later) to traverse the fiber network
 between points A and Z on the map, it is ultimately devices and a pair of ports on them that
@@ -7922,7 +7931,7 @@ The objects in netTerrain that can have tasks assigned to them include:
 - Slots
 - Line nodes
 
-#### 10.2.1.1 Categories of tasks................................................................................................................................
+#### 10.2.1.1 Categories of tasks
 
 There are three main categories of tasks in a netTerrain WOM:
 
@@ -8228,7 +8237,7 @@ added automatically.
 
 _Cascading task creation for dependent objects_
 
-#### 10.2.7.2 Closing a task with objects underneath.................................................................................................
+#### 10.2.7.2 Closing a task with objects underneath
 
 When I close a task for a node that has other objects underneath, then netTerrain will ask me if I
 want to close those related tasks too.
