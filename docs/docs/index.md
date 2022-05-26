@@ -12,7 +12,7 @@ hide:
 Powered by
 
 
-© 2021 Graphical Networks LLC. All rights reserved.
+© 2022 Graphical Networks LLC. All rights reserved.
 
 
 Graphical Networks and netTerrain are registered trademarks of Graphical Networks LLC. Other
